@@ -1,0 +1,16 @@
+Take the the fruitVariety.jpg file and modify it so that it is a 900 pixel width banner image with the text "Healthy Fruit". 
+
+Pull colors from the banner image for:
+ * A dark color for the background of the page (and the text, and the link background).
+ * A light color for the table's background (and the link color)
+ * A medium-dark color for the link/hover color.
+
+See the ScreenShotHealthyFruit.png and ScreenShotHealthyFruitHover.png images for examples of what it should look like (roughly).
+
+Create a file named index.html that has the appearance of ScreenShotHealthyFruit.png.  This file should have:
+ 
+ * A nav bar that uses an unordered list and formatted with CSS rules, as demonstrated in PandasDeliverNewNav
+ * An external style sheet named fruit.css
+ * The colors pulled from the banner image
+
+Once you get the index.html page working, then create fruits.html and recipes.html (make sure that they all link to the same external fruit.css file, and that all nav links work on all pages).

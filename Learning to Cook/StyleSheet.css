@@ -1,0 +1,18 @@
+h1 {color:#009900}
+h2 {color:brown}
+.leftside 
+{
+float:left;
+margin:7px;
+}
+.rightside
+{
+float:right;
+margin:7px;
+}
+.red
+{
+color:red;
+font-style: italic;}
+table, td, th { border: 3px solid green;
+background-color:yellow; }

@@ -1,0 +1,59 @@
+@charset "utf-8";
+
+.bodycolor {
+	background-color:#ffffcc;
+}
+
+.mrbanner {
+	background-image: url(images/Ownbanner.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%
+}
+
+#header {
+	margin: auto;
+	width: 100%;
+	height: 20%;
+	position: fixed;
+}
+
+#tablenav 
+{
+	rowspan: 3;
+	background-color:red;
+    text-align:center;
+    box-sizing: border-box;
+    width: 20%;
+    float: left;
+	margin-left: 50px;
+    top: 120px;
+	position: absolute;
+	padding: 1px;
+	margin: 5px;
+	font-family: arial, helvetica, sans-serif;
+	font-size: large;
+	line-height: 350%;
+	background:#ffff99;
+	color:#000;
+	border:2px solid #000;
+	text-decoration:blink;
+}
+
+#menu: hover
+{
+position:fixed;
+background:#08c;
+color:#fff;
+}
+
+#heading2
+{
+	text-align:center;
+	margin: 9%;
+}
+#p2
+{
+	margin:9%;
+	
+	
+}
